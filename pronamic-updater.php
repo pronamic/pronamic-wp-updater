@@ -1,6 +1,6 @@
 <?php
 /**
- * Pronamic Updater
+ * Pronamic WordPress Updater
  *
  * @package   PronamicWordPressUpdater
  * @author    Pronamic

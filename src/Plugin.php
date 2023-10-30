@@ -123,7 +123,8 @@ class Plugin {
 	/**
 	 * Request plugins update check.
 	 *
-	 * @param array $parsed_args HTTP request arguments.
+	 * @param string $url         URL.
+	 * @param array  $parsed_args HTTP request arguments.
 	 * @return array
 	 */
 	private function request_update_check( $url, $parsed_args ) {
