@@ -1,0 +1,13 @@
+{
+	"core": null,
+	"plugins": [
+		"pronamic/wp-env-quick-login",
+		"pronamic/pronamic-payment-gateways-countries-condition-for-woocommerce",
+		"https://downloads.wordpress.org/plugin/pronamic-client.zip",
+		"https://downloads.wordpress.org/plugin/query-monitor.zip",
+		"https://downloads.wordpress.org/plugin/log-http-requests.zip"
+	],
+	"mappings": {
+		"wp-content/plugins/pronamic-wp-updater": "."
+	}
+}

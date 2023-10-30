@@ -1,0 +1,29 @@
+{
+    "name": "pronamic/pronamic-wp-updater",
+    "description": "This WordPress plugin extends the WordPress update system with updates from Pronamic.",
+    "type": "wordpress-plugin",
+    "require-dev": {
+        "pronamic/pronamic-cli": "^1.1",
+        "pronamic/wp-coding-standards": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pronamic\\WordPress\\Updater\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pronamic",
+            "email": "info@pronamic.eu"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true,
+            "automattic/jetpack-autoloader": true
+        }
+    },
+    "require": {
+        "automattic/jetpack-autoloader": "^2.12"
+    }
+}
