@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/github-banner.png" alt=""></p>
+
 # Pronamic WordPress Updater
 
 This WordPress plugin extends the WordPress update system with updates from Pronamic.
