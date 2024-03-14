@@ -24,6 +24,6 @@
         }
     },
     "require": {
-        "automattic/jetpack-autoloader": "^2.12"
+        "automattic/jetpack-autoloader": "^3.0"
     }
 }
