@@ -1,15 +1,15 @@
 {
-  "name": "@pronamic/pronamic-wp-updater",
-  "version": "1.0.1",
-  "description": "This WordPress plugin extends the WordPress update system with updates from Pronamic.",
-  "keywords": [
-    "pronamic",
-    "wordpress",
-    "updater"
-  ],
-  "author": "Pronamic <info@pronamic.eu>",
-  "license": "GPL-2.0-or-later",
-  "devDependencies": {
-    "@wordpress/env": "^9.9.0"
-  }
+	"name": "@pronamic/pronamic-wp-updater",
+	"version": "1.0.1",
+	"description": "This WordPress plugin extends the WordPress update system with updates from Pronamic.",
+	"keywords": [
+		"pronamic",
+		"wordpress",
+		"updater"
+	],
+	"author": "Pronamic <info@pronamic.eu>",
+	"license": "GPL-2.0-or-later",
+	"devDependencies": {
+		"@wordpress/env": "^9.9.0"
+	}
 }
