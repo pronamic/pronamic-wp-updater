@@ -4,7 +4,7 @@
     "type": "wordpress-plugin",
     "require-dev": {
         "pronamic/pronamic-cli": "^1.1",
-        "pronamic/wp-coding-standards": "^2.0"
+        "pronamic/wp-coding-standards": "^2.2"
     },
     "autoload": {
         "psr-4": {
