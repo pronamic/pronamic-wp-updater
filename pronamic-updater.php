@@ -9,7 +9,7 @@
  * @wordpress-plugin
  * Plugin Name: Pronamic Updater
  * Description: This WordPress plugin extends the WordPress update system with updates from Pronamic.
- * Version:     1.0.2
+ * Version:     1.0.3
  * Author:      Pronamic
  * Author URI:  https://www.pronamic.eu/
  * Text Domain: pronamic-updater
